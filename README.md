@@ -1,7 +1,7 @@
 # From Creation to Automation: How Generative AI is Reshaping YouTube and TikTok
 
 An IEEE-style research paper examining how generative AI is changing digital
-content platforms — not just the tools creators use, but the incentives,
+content platforms, not just the tools creators use, but the incentives,
 economics, and trust dynamics of the platforms themselves.
 
 ## What this paper argues
@@ -37,7 +37,7 @@ all 15 sources.
 ## Why I wrote this
 
 This ties directly to work I did analyzing AI platforms and go-to-market
-positioning in a professional consulting context — I wanted to dig deeper
+positioning in a professional consulting context, I wanted to dig deeper
 into the platform-level dynamics (not just the tools) driving that shift,
 and to think through the second-order effects on trust and creator
 economics that don't get as much attention in day-to-day coverage.
